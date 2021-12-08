@@ -1,7 +1,0 @@
-{
-  "classifierPath": "meta::notpure::something::SomeType",
-  "content": {
-    "package": "model::otherthings",
-    "name": "AnotherThing"
-  }
-}

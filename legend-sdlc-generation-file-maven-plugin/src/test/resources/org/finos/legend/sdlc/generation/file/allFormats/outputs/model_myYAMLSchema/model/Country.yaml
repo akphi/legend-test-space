@@ -1,5 +1,0 @@
-title: "model::Country"
-enum: 
-  - "UK"
-  - "USA"
-type: "string"

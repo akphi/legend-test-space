@@ -1,4 +1,0 @@
-Enum model::domain::enums::AddressType
-{
-  STREET, CITY, COUNTRY
-}

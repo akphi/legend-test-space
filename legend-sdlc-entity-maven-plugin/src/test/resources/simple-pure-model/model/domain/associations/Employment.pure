@@ -1,5 +1,0 @@
-Association model::domain::associations::Employment
-{
-  employer: model::domain::Firm[*];
-  employees: model::domain::Person[*];
-}

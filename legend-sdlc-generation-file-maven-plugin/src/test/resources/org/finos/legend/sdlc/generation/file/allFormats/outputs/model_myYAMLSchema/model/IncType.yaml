@@ -1,5 +1,0 @@
-title: "model::IncType"
-enum: 
-  - "CORP"
-  - "LLC"
-type: "string"

@@ -1,4 +1,0 @@
-Class model::domain::classes::EntityWithAddresses
-{
-  addresses: model::domain::classes::Address[*];
-}
